@@ -1,2 +1,2 @@
 # Snake-Game
-First ever game made using Java!
+First ever game I've made!
